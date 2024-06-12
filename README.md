@@ -11,10 +11,13 @@
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    
+    <span> #{![](https://github-readme-streak-stats.herokuapp.com/?user=thuavanan2004&theme=default&hide_border=false)<br/>}</span>
 </div>
 
 # 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=thuavanan2004&theme=default&hide_border=false)<br/>
+<div>
+ 
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuavanan2004&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
