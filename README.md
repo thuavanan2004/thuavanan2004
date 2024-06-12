@@ -9,17 +9,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,nestjs,nextjs,tailwind,mongodb,mysql,docker,git,nginx,postman&theme=light" alt="javascript" />
 </p>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-   <span>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuavanan2004&theme=default&hide_border=false" alt="GitHub Streak Stats"/>
-    </span>
-</div>
-
 # 📊GitHub Stats :
-<div>
- 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuavanan2004&theme=default&hide_border=false" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuavanan2004&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuavanan2004&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
