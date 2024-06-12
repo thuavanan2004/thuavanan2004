@@ -11,7 +11,9 @@
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <span> #{![](https://github-readme-streak-stats.herokuapp.com/?user=thuavanan2004&theme=default&hide_border=false)<br/>}</span>
+   <span>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuavanan2004&theme=default&hide_border=false" alt="GitHub Streak Stats"/>
+    </span>
 </div>
 
 # 📊GitHub Stats :
