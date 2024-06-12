@@ -5,7 +5,7 @@
 <!--Languages and Tools-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,expressjs,bootstrap,tailwind,mongodb,mysql,docker,git,postman,scss,pug&theme=light" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,expressjs,bootstrap,tailwind,mongodb,mysql,graphql,docker,git,postman,scss,pug&theme=light" alt="javascript" />
 </p>
 
 # 📊 GitHub Stats :
