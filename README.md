@@ -7,7 +7,7 @@
 <!--Languages and Tools-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nestjs,nextjs,tailwind,mongodb,mysql,docker,git,nginx,postman&theme=light" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,expressjs,bootstrap,tailwind,mongodb,mysql,docker,git,socket.io,postman&theme=light" alt="javascript" />
 </p>
 # 📊 GitHub Stats :
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
