@@ -3,8 +3,5 @@
 
 <!--Languages and Tools-->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,expressjs,bootstrap,tailwind,mongodb,mysql,graphql,docker,git,postman,scss,pug&theme=light" alt="javascript" />
-</p>
 
 
